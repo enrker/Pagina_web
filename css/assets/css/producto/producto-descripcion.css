@@ -1,0 +1,6 @@
+.producto__descripcion{
+    text-align: justify;
+    line-height: 1,5;
+    color: darkcyan;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
