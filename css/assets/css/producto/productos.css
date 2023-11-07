@@ -1,5 +1,17 @@
 .productos{
-    background: #929292;
+    background: #ffffff;
     display: flex;
     flex-wrap: wrap;
+}
+@media screen and (min-width:0){
+    .productos{
+        padding: 5rem 0 0 2.5rem;
+        text-align: center;
+}
+}
+@media screen and (min-width:992px){
+    .productos{
+        padding: 5rem 0 0 5rem;
+        text-align: center;
+}
 }

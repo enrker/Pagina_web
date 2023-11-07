@@ -2,3 +2,13 @@
     color: #000000;
     font-family: Verdana, cursive;
 }
+@media screen and (min-width:0) {
+    .contenido__mensaje{
+        font-size: 1rem;
+    }
+}
+@media screen and (min-width:768){
+    .contenido__mensaje{
+        font-size: 1rem;
+}
+}
